@@ -3,7 +3,7 @@
 ## Classification over medical transcripts
 Objective:
 * conducting exploratory data analysis on the dataset
-* applying various dimensionality reductiong algorithms such truncated SVD, PCA and visualising it through TSNE 
+* applying dimensionality reductiong algorithms PCA and visualising it through TSNE 
 
 Dataset can be downloaded here: https://www.kaggle.com/tboyle10/medicaltranscriptions/download
 
